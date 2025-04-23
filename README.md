@@ -81,18 +81,9 @@ else:
 
 ```
 ## Output:
-### GRAYSCALE IMAGE:
+
 ![download](https://github.com/user-attachments/assets/9dab6dbb-41eb-4e95-81ee-af4443a77f49)
 
-### LAPLACIAN EDGE DETECTOR
-![download](https://github.com/user-attachments/assets/1b7adacf-4e62-45c4-9599-0824aa03941d)
-
-### CANNY EDGE DETECTOR
-![download](https://github.com/user-attachments/assets/9f0e30a4-9025-4b56-b723-0e1ec5656582)
-
-
-### SOBEL EDGE DETECTOR
-![download](https://github.com/user-attachments/assets/655b10c7-ab27-4751-9b35-4413fef94f95)
 
 
 ## Result:
